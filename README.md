@@ -1,0 +1,4 @@
+- My name is "Parham" and i have 16 years old.
+- I love the codes and the dark theme of IDE's :)
+- My favorite lang of programming is "Python"
+- If you call me or q&a send message to my email : parhamgit@gmail.com
